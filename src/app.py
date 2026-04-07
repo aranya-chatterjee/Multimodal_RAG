@@ -16,7 +16,7 @@ from vectorStore import VectorStoreManager
 from search import RAGSearch
 
 st.set_page_config(
-    page_title="Multimodal RAG",
+    page_title="MASTERJI-A Multimodal RAG",
     # page_icon="🎬",
     layout="wide"
 )
